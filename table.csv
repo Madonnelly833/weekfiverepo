@@ -1,0 +1,11 @@
+"char_id";"char_name";"race";"profession";"attack";"defense";"hitpoints"
+2;"Keith";"Human";"Fighter";10;10;100
+5;"Erin";"Teacher";"Teacher";10;10;200
+6;"Alan";"Human";"Dancer";10;10;100
+8;"Gabby";"Cat";"Sleeper";10;10;100
+10;"Larry";"HornDog";"Leisure Suit";16;12;120
+11;"Kyle";"White";"Bobby";10;8;75
+12;"Stevie";"Half and Half";"Creamer";1;1;1
+13;"Pikachu";"Pokemon";"Bane of Existance";12;12;120
+14;"Walter";"Elf";"Elf";12;45;15
+15;"Dave";"High";"Not Here man";1;1;9000
